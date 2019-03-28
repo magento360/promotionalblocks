@@ -22,6 +22,14 @@ anywhere you want throughout your Magento store?<br>Well! We’ve got the perfec
 	<li>Select single / bulk products.</li>
 </ol>
 
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/custom-promotional-blocks/admin-1.jpeg" alt="Backend" />
+
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/custom-promotional-blocks/admin-2.jpeg" alt="Backend" />
+
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/custom-promotional-blocks/admin-3.jpeg" alt="Backend" />
+
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/custom-promotional-blocks/frontend-1.jpg" alt="Backend" />
+
 <h3>FAQs:</h3>
 <ol>
 	<li>Does it work with Magento 2?<br>- Yes, it is fully compatible with Magento 2.</li>
