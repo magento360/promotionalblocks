@@ -3,8 +3,6 @@
 <p>Do you want to provide a better customer experience by placing products and categories
 anywhere you want throughout your Magento store?<br>Well! We’ve got the perfect Magento 2 extension for you which will setup everything for you in less than a minute.</p>
 
-<p>Well! We’ve got the perfect Magento 2 extension for you which will setup everything for you in less than a minute.</p>
-
 <p>Custom Blocks Extension for Magento 2 allows you to place your products as well as product categories anywhere in the store.</p>
 
 <h3>For Example:</h3>
